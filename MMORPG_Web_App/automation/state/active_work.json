@@ -8,31 +8,31 @@
   "pipelineCounts": {
     "pendingTasks": 0,
     "specPipeline": 0,
-    "featurePipeline": 2,
-    "ideaPipeline": 1,
+    "featurePipeline": 3,
+    "ideaPipeline": 0,
     "targets": {
       "specPipeline": 3,
       "featurePipeline": 3
     },
-    "computedAt": "2026-06-16T20:00:00Z"
+    "computedAt": "2026-06-16T21:30:00Z"
   },
-  "routingRule": 4,
-  "routingRuleLabel": "featurePipeline <= 2 && ideaPipeline >= 1 → idea lane",
+  "routingRule": "4a",
+  "routingRuleLabel": "featurePipeline <= 2 && ideaPipeline >= 1 → idea lane (executed at run start)",
   "selectedLane": "idea",
-  "activeIdea": "docs/ideas/001_Frontend_Architecture_Migration.md",
-  "activeFeature": "docs/features/006_area-exploration-prototype.md",
+  "activeIdea": null,
+  "activeFeature": "docs/features/008_frontend-architecture-migration.md",
   "activeSpec": null,
-  "phase": "coordination",
+  "phase": "feature_definition",
   "currentTask": null,
-  "status": "idle",
-  "workflow": null,
+  "status": "awaiting_review",
+  "workflow": "feature_definition_loop",
   "activeBranch": "ai-workflow",
   "gitBaseBranch": "ai-workflow",
-  "gitWorkBranch": null,
+  "gitWorkBranch": "idea/001-frontend-architecture-migration",
   "branchPrefix": "idea/",
   "attempts": 0,
-  "reason": "Pipeline depth rule 4a: featurePipeline=2 (below target 3), ideaPipeline=1 → route feature_definition_loop. Feature 006 still blocked on human approval for spec creation.",
+  "reason": "Rule 4a executed: idea 001 promoted to Feature 008 Draft. featurePipeline now 3 (006, 007, 008). ideaPipeline 0.",
   "humanApprovalRequired": true,
   "lastValidation": null,
-  "updatedAt": "2026-06-16T20:00:00Z"
+  "updatedAt": "2026-06-16T21:30:00Z"
 }
