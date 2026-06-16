@@ -15,5 +15,5 @@
   "attempts": 0,
   "reason": "Feature 006 is Draft and requires user approval before spec creation can start. Coordinator skipped feature lane per humanApprovalRequired gate.",
   "humanApprovalRequired": true,
-  "updatedAt": "2026-06-16T17:27:44Z"
+  "updatedAt": "2026-06-16T17:58:04Z"
 }
