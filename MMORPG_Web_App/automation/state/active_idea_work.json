@@ -1,0 +1,18 @@
+{
+  "project": "MMORPG_Web_App",
+  "lane": "idea",
+  "laneOrder": 3,
+  "activeIdea": null,
+  "targetFeature": null,
+  "phase": "coordination",
+  "status": "idle",
+  "workflow": null,
+  "activeBranch": "ai-workflow",
+  "gitBaseBranch": "ai-workflow",
+  "gitWorkBranch": null,
+  "branchPrefix": "idea/",
+  "attempts": 0,
+  "reason": "No unpromoted idea is currently available. Idea 001 was promoted to Feature 006.",
+  "humanApprovalRequired": false,
+  "updatedAt": "2026-06-15T12:40:16Z"
+}

@@ -1,0 +1,20 @@
+{
+  "project": "MMORPG_Web_App",
+  "lane": "spec",
+  "laneOrder": 1,
+  "activeSpec": null,
+  "activeFeature": null,
+  "currentTask": null,
+  "phase": "coordination",
+  "status": "idle",
+  "workflow": null,
+  "activeBranch": "ai-workflow",
+  "gitBaseBranch": "ai-workflow",
+  "gitWorkBranch": null,
+  "branchPrefix": "spec/",
+  "attempts": 0,
+  "reason": "No approved active spec is available for task execution, validation, or review.",
+  "humanApprovalRequired": false,
+  "lastValidation": null,
+  "updatedAt": "2026-06-15T12:40:16Z"
+}

@@ -1,0 +1,19 @@
+{
+  "project": "MMORPG_Web_App",
+  "lane": "feature",
+  "laneOrder": 2,
+  "activeFeature": "docs/features/006_area-exploration-prototype.md",
+  "activeSpec": null,
+  "nextSpecQueueItem": "Area mock data model",
+  "phase": "feature_review",
+  "status": "awaiting_review",
+  "workflow": "docs/automation/loops/spec_creation_loop.md",
+  "activeBranch": "ai-workflow",
+  "gitBaseBranch": "ai-workflow",
+  "gitWorkBranch": "feature/006-area-exploration-prototype",
+  "branchPrefix": "feature/",
+  "attempts": 0,
+  "reason": "Feature 006 is Draft and requires user approval before spec creation can start.",
+  "humanApprovalRequired": true,
+  "updatedAt": "2026-06-15T12:40:16Z"
+}
