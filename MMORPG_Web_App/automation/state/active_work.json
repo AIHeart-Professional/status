@@ -5,6 +5,19 @@
     "MMORPG_Web_App/automation/state/active_feature_work.json",
     "MMORPG_Web_App/automation/state/active_idea_work.json"
   ],
+  "pipelineCounts": {
+    "pendingTasks": 0,
+    "specPipeline": 0,
+    "featurePipeline": 2,
+    "ideaPipeline": 1,
+    "targets": {
+      "specPipeline": 3,
+      "featurePipeline": 3
+    },
+    "computedAt": "2026-06-16T20:00:00Z"
+  },
+  "routingRule": 4,
+  "routingRuleLabel": "featurePipeline <= 2 && ideaPipeline >= 1 → idea lane",
   "selectedLane": "idea",
   "activeIdea": "docs/ideas/001_Frontend_Architecture_Migration.md",
   "activeFeature": "docs/features/006_area-exploration-prototype.md",
@@ -18,8 +31,8 @@
   "gitWorkBranch": null,
   "branchPrefix": "idea/",
   "attempts": 0,
-  "reason": "Legacy summary. Spec idle; feature blocked on Feature 006 human approval; idea 001 eligible — next coordinator should route feature_definition_loop.",
+  "reason": "Pipeline depth rule 4a: featurePipeline=2 (below target 3), ideaPipeline=1 → route feature_definition_loop. Feature 006 still blocked on human approval for spec creation.",
   "humanApprovalRequired": true,
   "lastValidation": null,
-  "updatedAt": "2026-06-16T18:30:00Z"
+  "updatedAt": "2026-06-16T20:00:00Z"
 }

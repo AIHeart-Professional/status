@@ -12,7 +12,7 @@
   "gitWorkBranch": null,
   "branchPrefix": "idea/",
   "attempts": 0,
-  "reason": "Unpromoted idea 001 eligible for next coordinator run. Idea lane independent of Feature 006 Draft status; cross-feature deps use feature Dependencies field only.",
+  "reason": "Pipeline depth rule 4a: featurePipeline=2, ideaPipeline=1. Idea lane selected by coordinator counts — not fixed lane order.",
   "humanApprovalRequired": true,
-  "updatedAt": "2026-06-16T18:30:00Z"
+  "updatedAt": "2026-06-16T20:00:00Z"
 }
