@@ -2,17 +2,17 @@
   "project": "MMORPG_Web_App",
   "lane": "idea",
   "laneOrder": 3,
-  "activeIdea": null,
+  "activeIdea": "docs/ideas/001_Frontend_Architecture_Migration.md",
   "targetFeature": null,
   "phase": "coordination",
-  "status": "idle",
+  "status": "deferred",
   "workflow": null,
   "activeBranch": "ai-workflow",
   "gitBaseBranch": "ai-workflow",
   "gitWorkBranch": null,
   "branchPrefix": "idea/",
   "attempts": 0,
-  "reason": "No unpromoted idea is currently available. Idea 001 was promoted to Feature 006.",
-  "humanApprovalRequired": false,
-  "updatedAt": "2026-06-15T12:40:16Z"
+  "reason": "Earliest unpromoted idea exists but deferred while Feature 006 Draft awaits user approval. One-feature-focus; promote after Feature 006 is Ready or user redirects priority.",
+  "humanApprovalRequired": true,
+  "updatedAt": "2026-06-16T17:27:44Z"
 }

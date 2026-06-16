@@ -7,13 +7,13 @@
   "nextSpecQueueItem": "Area mock data model",
   "phase": "feature_review",
   "status": "awaiting_review",
-  "workflow": "docs/automation/loops/spec_creation_loop.md",
+  "workflow": null,
   "activeBranch": "ai-workflow",
   "gitBaseBranch": "ai-workflow",
   "gitWorkBranch": "feature/006-area-exploration-prototype",
   "branchPrefix": "feature/",
   "attempts": 0,
-  "reason": "Feature 006 is Draft and requires user approval before spec creation can start.",
+  "reason": "Feature 006 is Draft and requires user approval before spec creation can start. Coordinator skipped feature lane per humanApprovalRequired gate.",
   "humanApprovalRequired": true,
-  "updatedAt": "2026-06-15T12:40:16Z"
+  "updatedAt": "2026-06-16T17:27:44Z"
 }
