@@ -5,14 +5,14 @@
   "activeIdea": "docs/ideas/001_Frontend_Architecture_Migration.md",
   "targetFeature": null,
   "phase": "coordination",
-  "status": "deferred",
+  "status": "idle",
   "workflow": null,
   "activeBranch": "ai-workflow",
   "gitBaseBranch": "ai-workflow",
   "gitWorkBranch": null,
   "branchPrefix": "idea/",
   "attempts": 0,
-  "reason": "Earliest unpromoted idea exists but deferred while Feature 006 Draft awaits user approval. One-feature-focus; promote after Feature 006 is Ready or user redirects priority.",
+  "reason": "Unpromoted idea 001 eligible for next coordinator run. Idea lane independent of Feature 006 Draft status; cross-feature deps use feature Dependencies field only.",
   "humanApprovalRequired": true,
-  "updatedAt": "2026-06-16T17:58:04Z"
+  "updatedAt": "2026-06-16T18:30:00Z"
 }

@@ -5,21 +5,21 @@
     "MMORPG_Web_App/automation/state/active_feature_work.json",
     "MMORPG_Web_App/automation/state/active_idea_work.json"
   ],
-  "selectedLane": null,
+  "selectedLane": "idea",
   "activeIdea": "docs/ideas/001_Frontend_Architecture_Migration.md",
   "activeFeature": "docs/features/006_area-exploration-prototype.md",
   "activeSpec": null,
   "phase": "coordination",
   "currentTask": null,
-  "status": "no_actionable_work",
+  "status": "idle",
   "workflow": null,
   "activeBranch": "ai-workflow",
   "gitBaseBranch": "ai-workflow",
   "gitWorkBranch": null,
-  "branchPrefix": null,
+  "branchPrefix": "idea/",
   "attempts": 0,
-  "reason": "Legacy summary only. All lanes exhausted: spec idle; feature blocked on Feature 006 human approval; idea deferred until Feature 006 review completes.",
+  "reason": "Legacy summary. Spec idle; feature blocked on Feature 006 human approval; idea 001 eligible — next coordinator should route feature_definition_loop.",
   "humanApprovalRequired": true,
   "lastValidation": null,
-  "updatedAt": "2026-06-16T17:58:04Z"
+  "updatedAt": "2026-06-16T18:30:00Z"
 }
