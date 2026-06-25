@@ -3,9 +3,9 @@
   "lane": "spec",
   "laneOrder": 1,
   "activeSpec": null,
-  "activeFeature": null,
+  "activeFeatureIssue": "github:AIHeart-Professional/MMORPG_Web_App#6",
   "currentTask": null,
-  "phase": "coordination",
+  "phase": "idle",
   "status": "idle",
   "workflow": null,
   "activeBranch": "ai-workflow",
@@ -13,8 +13,8 @@
   "gitWorkBranch": null,
   "branchPrefix": "spec/",
   "attempts": 0,
-  "reason": "No approved active spec. Feature 006 still Draft (separate blocker). Feature 008 not Ready.",
+  "reason": "Greenfield reset 2026-06-24. No approved Pending specs. Spawn specs from FEAT-001 #6 Spec Queue.",
   "humanApprovalRequired": false,
   "lastValidation": null,
-  "updatedAt": "2026-06-16T21:30:00Z"
+  "updatedAt": "2026-06-24T12:00:00Z"
 }
